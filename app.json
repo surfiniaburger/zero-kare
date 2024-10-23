@@ -31,6 +31,12 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "89146569-d6af-4bcc-8713-7dd6533395aa"
+      }
+    },
+    "owner": "surfiniaburger"
   }
 }
